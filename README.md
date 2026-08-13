@@ -1,4 +1,4 @@
-# Olá, eu sou o Mary Gomes! 👋 (`@letscoderun-dev`)
+# Olá, eu sou a Mary Gomes! 👋 (`@letscoderun-dev`)
 
 > 🚀 **Full Stack JavaScript Developer Avançado**  
 > *"Let's code, run and deliver."*
