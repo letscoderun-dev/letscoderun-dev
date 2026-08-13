@@ -37,6 +37,5 @@ Tags de visualização rápida do seu perfil (substitua pelo seu usuário real q
 
 ### 📫 Vamos nos conectar?
 
-* **LinkedIn:** [://linkedin.com](https://linkedin.com) *(insira seu link aqui)*
-* **E-mail:** [seu-email@provedor.com](mailto:seu-email@provedor.com)
-* **Portfólio:** [meu-portfolio.dev](https://google.com)
+* **E-mail:** [letscoderun@gmail.com](mailto:letscoderun@gmail.com)
+
