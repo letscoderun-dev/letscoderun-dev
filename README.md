@@ -28,10 +28,12 @@ Sou um desenvolvedor focado no ecossistema JavaScript, especializado na criaçã
 
 ### 📊 Estatísticas do GitHub
 
-Tags de visualização rápida do seu perfil (substitua pelo seu usuário real quando configurado):
+Abaixo estão os dados atualizados das minhas contribuições e linguagens mais utilizadas no ecossistema de desenvolvimento:
 
-![Status do GitHub](https://vercel.app)
-![Top Languages](https://vercel.app)
+<p align="left">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub de Mary" height="180em" />
+  <img src="https://vercel.app" alt="Linguagens mais usadas por Mary" height="180em" />
+</p>
 
 ---
 
