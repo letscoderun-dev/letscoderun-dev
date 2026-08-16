@@ -1,9 +1,9 @@
-# Olá, eu sou a Mary Gomes! 👋 (`@letscoderun-dev`)
+# Olá, eu sou a Mary Cardoso! 👋 (`@letscoderun-dev`)
 
 > 🚀 **Full Stack JavaScript Developer Avançado**  
 > *"Let's code, run and deliver."*
 
-Sou um desenvolvedor focado no ecossistema JavaScript, especializado na criação de aplicações web robustas, performáticas e escaláveis de ponta a ponta. Tenho forte domínio na arquitetura de APIs e na modelagem de dados eficientes.
+Sou um desenvolvedor focado no ecossistema JavaScript, especializando na criação de aplicações web robustas, performáticas e escaláveis de ponta a ponta. Tenho forte domínio na arquitetura de APIs e na modelagem de dados eficientes.
 
 ---
 
